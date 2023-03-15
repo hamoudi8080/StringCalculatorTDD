@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=01304a4c_002D258b_002D47de_002D8829_002D30061f38efd9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Add_AddUpToTwoNumbers_WhenStringIsValid" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F67A337A-C604-4248-A349-58E8E95307FF::net7.0::StringCalculator.Tests.CalculatorTests.Add_AddUpToTwoNumbers_WhenStringIsValid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F67A337A-C604-4248-A349-58E8E95307FF::net7.0::StringCalculator.Tests.CalculatorTests.Add_AddUpToAnyNumber_WhenStringIsValid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F67A337A-C604-4248-A349-58E8E95307FF::net7.0::StringCalculator.Tests.CalculatorTests.Add_AddsNumbersUsingNewLineDelimiter_WhenStringIsValid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F67A337A-C604-4248-A349-58E8E95307FF::net7.0::StringCalculator.Tests.CalculatorTests.Add_AddsNumbersUsingCustomDelimiter_WhenStringIsValid&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5d490233_002D86e7_002D445e_002Db2dc_002D18cc4db57ac8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Add_AddUpToTwoNumbers_WhenStringIsValid #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F67A337A-C604-4248-A349-58E8E95307FF::net7.0::StringCalculator.Tests.CalculatorTests.Add_AddUpToTwoNumbers_WhenStringIsValid&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ded58ff0_002D69e6_002D478b_002Db233_002D05ff142f443a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Add_AddUpToTwoNumbers_WhenStringIsValid #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F67A337A-C604-4248-A349-58E8E95307FF::net7.0::StringCalculator.Tests.CalculatorTests.Add_AddUpToTwoNumbers_WhenStringIsValid&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

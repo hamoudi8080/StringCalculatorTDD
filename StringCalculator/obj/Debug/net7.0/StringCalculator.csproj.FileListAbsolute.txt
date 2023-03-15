@@ -1,0 +1,12 @@
+C:\Users\mar\RiderProjects\StringCalculatorTDD\StringCalculator\bin\Debug\net7.0\StringCalculator.deps.json
+C:\Users\mar\RiderProjects\StringCalculatorTDD\StringCalculator\bin\Debug\net7.0\StringCalculator.dll
+C:\Users\mar\RiderProjects\StringCalculatorTDD\StringCalculator\bin\Debug\net7.0\StringCalculator.pdb
+C:\Users\mar\RiderProjects\StringCalculatorTDD\StringCalculator\obj\Debug\net7.0\StringCalculator.csproj.AssemblyReference.cache
+C:\Users\mar\RiderProjects\StringCalculatorTDD\StringCalculator\obj\Debug\net7.0\StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mar\RiderProjects\StringCalculatorTDD\StringCalculator\obj\Debug\net7.0\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\mar\RiderProjects\StringCalculatorTDD\StringCalculator\obj\Debug\net7.0\StringCalculator.AssemblyInfo.cs
+C:\Users\mar\RiderProjects\StringCalculatorTDD\StringCalculator\obj\Debug\net7.0\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mar\RiderProjects\StringCalculatorTDD\StringCalculator\obj\Debug\net7.0\StringCalculator.dll
+C:\Users\mar\RiderProjects\StringCalculatorTDD\StringCalculator\obj\Debug\net7.0\refint\StringCalculator.dll
+C:\Users\mar\RiderProjects\StringCalculatorTDD\StringCalculator\obj\Debug\net7.0\StringCalculator.pdb
+C:\Users\mar\RiderProjects\StringCalculatorTDD\StringCalculator\obj\Debug\net7.0\ref\StringCalculator.dll
