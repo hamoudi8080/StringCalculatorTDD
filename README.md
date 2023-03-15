@@ -12,13 +12,14 @@ for example “” or “1” or “1,2” as inputs.
 (for an empty string it will return 0) 
 
 
-2 Allow the Add method to handle an unknown amount of numbers
+2 Allow the Add method to handle an unknown amount of numbers.
 
 -----------------------
 
 3 Allow the Add method to handle new lines between numbers (instead of commas).
 
 the following input is ok: “1\n2,3” (will equal 6)
+
 the following input is NOT ok: “1,\n” (not need to prove it - just clarifying)
 -----------------------
 
